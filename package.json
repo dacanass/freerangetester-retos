@@ -1,0 +1,26 @@
+{
+  "name": "freerangetester-retos",
+  "version": "1.0.0",
+  "description": "Este es un repositorio donde compartire me solucion a los diferentes retos propuestos por Free Range Testers: https://www.freerangetesters.com/",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacanass/freerangetester-retos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dacanass/freerangetester-retos/issues"
+  },
+  "homepage": "https://github.com/dacanass/freerangetester-retos#readme",
+  "dependencies": {
+    "playwright": "^1.50.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.5"
+  }
+}
