@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Este es un repositorio donde compartire me solucion a los diferentes retos propuestos por Free Range Testers: https://www.freerangetesters.com/",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "npx playwright test formulario.spec.ts --ui"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dacanass/freerangetester-retos.git"
