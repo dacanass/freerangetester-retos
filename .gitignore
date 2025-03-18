@@ -134,3 +134,7 @@ dist
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+# Allure report directories
+allure-results/
+allure-report/
